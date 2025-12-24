@@ -12,7 +12,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>POST（受信）</title>
+    <title>POST</title>
 </head>
 
 <body>

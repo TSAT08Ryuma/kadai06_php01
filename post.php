@@ -1,7 +1,5 @@
 <html>
-
 <!-- データ取得時はGET　登録時はPOSTがよさそう？ -->
-
 <head>
     <meta charset="utf-8">
     <style>
@@ -26,7 +24,6 @@
         お名前: <input type="text" name="name">
         EMAIL: <input type="text" name="email">
         出身県:  <input type="textarea" name="place">
-        <!-- パスワード欄を追加してみる。 -->
         <input type="submit" value="送信">
     </form>
 </body>

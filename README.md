@@ -5,7 +5,7 @@
 - フォームで入力→データを保存→表示という非常にシンプルな機構です
 
 ## ③アプリのデプロイURL
-NA
+https://blue-purge.sakura.ne.jp/post.php
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: NA
